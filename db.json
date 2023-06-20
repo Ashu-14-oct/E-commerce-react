@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "title": "Iphone 13",
+      "price": "60000",
+      "image": "https://specials-images.forbesimg.com/imageserve/614cf40d7057a40eb37483a0/Buy-iPhone-13-and-iPhone-13-mini/0x800.jpg?cropX1=0&cropX2=940&cropY1=0&cropY2=1112",
+      "id": 1
+    },
+    {
+      "title": "Yamaha MT 15 V2 ",
+      "price": "90000",
+      "image": "https://media.zigcdn.com/media/model/2022/Apr/yamaha-mt-15-version-2-right-side-view_270x180.jpg",
+      "id": 2
+    },
+    {
+      "title": "Samsung Wondertainment  UA32T4340BKXXL ",
+      "price": 25000,
+      "image": "https://m.media-amazon.com/images/I/71a4ZQNqTiL._AC_UF1000,1000_QL80_.jpg",
+      "id": 3
+    },
+    {
+      "title": "Lenovo Legion 5 15",
+      "price": "70000",
+      "image": "https://www.lenovo.com/medias/Legion-5-AMD-Subseries-Backpack.png?context=bWFzdGVyfHJvb3R8NTQ5MjB8aW1hZ2UvcG5nfGgxMS9oNjMvMTEzMTU5NzU3NDk2NjIucG5nfDBjOTA3NTZkNTk5NWIwNzY5NTAyMTliY2Y0ZWFlNjgyN2NlOTFiMDNhNzk4OGNkY2M4MGUyYzJmOGY1NWM4M2U",
+      "id": 4
+    },
+    {
+      "title": "ASUS Vivobook 15 (X1504)",
+      "price": "45000",
+      "image": "https://dlcdnwebimgs.asus.com/gain/5707c7d1-7e0f-4897-bc93-d31d017b2edf/w800",
+      "id": 5
+    },
+    {
+      "title": "Xiaomi Redmi Note 9 Pro Max",
+      "price": "19000",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/XiaomiRedmiNote9ProMax.JPG",
+      "id": 6
+    },
+    {
+      "title": "Xiaomi Redmi Note 8 Pro",
+      "price": "15000",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2019/08/Xiaomi-Redmi-Note-8-Pro-2.jpg",
+      "id": 7
+    }
+  ]
+}
